@@ -1,8 +1,8 @@
 # BÁO CÁO BÀI TẬP THỰC HÀNH C# WINFORMS (3-TIER ARCHITECTURE)
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-* **Họ và tên sinh viên:** Nguyễn Hữu Trường
-* **Mã sinh viên:** 24810320290
+* **Họ và tên sinh viên:** Nguyễn Văn An
+* **Mã sinh viên:** 24810320020
 * **Lớp / Khóa:** D19QTANM1
 
 ---
